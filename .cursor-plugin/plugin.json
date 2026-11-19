@@ -1,0 +1,22 @@
+{
+  "name": "mcp-mrg-crewforce",
+  "displayName": "Crewforce",
+  "version": "1.0.0",
+  "description": "Crewforce MCP — productions, work days, contacts, venues, rate cards and public profile for live-event crew (https://crewforce.xyz).",
+  "author": {
+    "name": "emrgim",
+    "email": "e@mrg.im"
+  },
+  "homepage": "https://crewforce.xyz",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "connector",
+    "mrg",
+    "crewforce",
+    "live events",
+    "crew"
+  ],
+  "logo": "https://raw.githubusercontent.com/emrgim/mcp-mrg-assets/main/crewforce.svg",
+  "mcpServers": "./mcp.json"
+}
